@@ -1,0 +1,83 @@
+@charset "UTF-8";
+img {
+    float: left;
+    text-align: center;
+    top: auto;
+}
+aside {
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    font-size: x-large;
+    text-align: left;
+}
+h2 {
+    text-align: center;
+    Font-Family: 'Lora', Serif;
+    Font-Size: 32px;
+    font-style: italic;
+}
+p {
+Font-Family: 'Playfair Display', Serif;
+Font-Size: 16px;}
+body {
+    background-image: url(images/AdobeStock_274062051.jpeg), -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(245,99,101,1.00) 100%);
+    background-image: url(images/AdobeStock_274062051.jpeg), -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(245,99,101,1.00) 100%);
+    background-image: url(images/AdobeStock_274062051.jpeg), -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(245,99,101,1.00) 100%);
+    background-image: url(images/AdobeStock_274062051.jpeg), linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(245,99,101,1.00) 100%);
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+section {
+	
+    background-color: #F56365;
+    border-radius: 20px;
+    float: right;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+}
+footer {
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-image: -webkit-linear-gradient(270deg,rgba(245,130,30,0.41) 0%,rgba(245,99,86,1.00) 100%);
+    background-image: -moz-linear-gradient(270deg,rgba(245,130,30,0.41) 0%,rgba(245,99,86,1.00) 100%);
+    background-image: -o-linear-gradient(270deg,rgba(245,130,30,0.41) 0%,rgba(245,99,86,1.00) 100%);
+    background-image: linear-gradient(180deg,rgba(245,130,30,0.41) 0%,rgba(245,99,86,1.00) 100%);
+}
+
+
+
+.norm {
+    color: #4836BF;
+    background-color: #4836BF;
+}
+.norm {
+    background-color: #FFFFFF;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 0px 2px;
+    box-shadow: 0px 0px 0px 2px;
+    text-decoration: none;
+}
+.rounded-circle.img-fluid {
+    position: static;
+    text-align: center;
+    float: right;
+}
+header aside img {
+}
+h1 {
+    Font-Family: 'Lora', Serif;
+    Font-Size: 52px;
+    text-align: center;
+    color: #F56950;
+}
